@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Ana Soto 👋
+
+Me gusta hacer realidad propuestas de diseño para solucionar alguna problemática aplicando mis conocimientos orientados a desarrollo web.
+
+Me gusta los nuevos retos, estar en constante aprendizaje, compartir conocimientos porque creo que se aprende mucho de la experiencia de otros compañeros, así mismo tener feedback.
+
+Algunas tecnologías que domino:
+
+Logo HTML Logo CSS Logo JS Logo Angular Logo React
 
 <!--
 **avsoto/avsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
