@@ -1,4 +1,4 @@
-### Hi, I'm Ana Soto 👋
+### Hi, I'm Ana Soto 👋👩🏾‍💻
 
 I like to make design proposals come true to solve any problem by applying my knowledge oriented to web development.
 
