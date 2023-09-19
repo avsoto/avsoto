@@ -6,7 +6,7 @@ Me gusta los nuevos retos, estar en constante aprendizaje, compartir conocimient
 
 Algunas tecnologías que domino:
 
-Logo HTML Logo CSS Logo JS Logo Angular Logo React
+![pngwing com (2)](https://github.com/avsoto/avsoto/assets/70552802/b0b6518d-ead6-4b71-bced-fb25e79747a2)
 
 <!--
 **avsoto/avsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
