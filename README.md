@@ -1,12 +1,19 @@
 ### Hi, I'm Ana Soto 👋
 
-Me gusta hacer realidad propuestas de diseño para solucionar alguna problemática aplicando mis conocimientos orientados a desarrollo web.
+I like to make design proposals come true to solve any problem by applying my knowledge oriented to web development.
 
-Me gusta los nuevos retos, estar en constante aprendizaje, compartir conocimientos porque creo que se aprende mucho de la experiencia de otros compañeros, así mismo tener feedback.
+I'm proactive, with a huge sense of responsability and commitment, with a good adaptability to any kind of work changes, predisposition to constantly learning, sharing knowledge because I believe that you learn a lot from the experience of other colleagues, as well as having feedback.
 
-Algunas tecnologías que domino:
 
-![pngwing com (2)](https://github.com/avsoto/avsoto/assets/70552802/b0b6518d-ead6-4b71-bced-fb25e79747a2)
+Some technologies I master:
+<div style="display: inline_block">
+  <img align="center" alt="Logo HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Logo CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+</div> 
+<br> 
+
 
 <!--
 **avsoto/avsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
