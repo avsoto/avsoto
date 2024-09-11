@@ -4,6 +4,10 @@ I like to make design proposals come true to solve any problem by applying my kn
 
 I'm proactive, with a huge sense of responsability and commitment, with a good adaptability to any kind of work changes, predisposition to constantly learning, sharing knowledge because I believe that you learn a lot from the experience of other colleagues, as well as having feedback.
 
+<div align="center">
+   <!-- GitHub Stats Card -->
+   ![Ana Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=avsoto&show_icons=true&locale=es&theme=dark)
+</div>
 
 Some technologies I master:
 <div style="display: inline_block">
