@@ -1,27 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ana Soto</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+## 😊 Hi, I'm Ana Victoria Soto Mejía
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avsoto&label=Profile%20views&color=0e75b6&style=flat" alt="avsoto" /> </p>
+### :octocat: About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avsoto" alt="avsoto" /></a> </p>
+I am a **Software Engineer** and **UX Designer** passionate about building software that improves people's lives. My journey started with **Philosophy**, but I transitioned into **Software Engineering** and now specialize in creating intuitive web applications. With experience in **JavaScript**, **Java**, **HTML**, **CSS**, and **Java**, I'm adept at solving problems through code and designing user-centric solutions.
 
-- 🔭 I’m currently working on [Dataverse-Chat](https://avsoto.github.io/DEV015-dataverse-chat/src/)
+I’m constantly seeking new ways to challenge myself and improve. I’ve collaborated on projects in both English (C2 level) and Spanish, and I enjoy working in agile teams. In addition to development, I have strong skills in **Power BI**, **Illustrator**, **Photoshop**, **Figma**, and **After Effects**. Outside of coding, I love learning new languages and exploring different cultures.
 
-- 🌱 I’m currently learning **Javascript and Java.**
+### 💻 Tech Stack:
 
-- 📫 How to reach me **avsotomejia@gmail.com**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avsotomejia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avsotomejia/" height="30" width="40" /></a>
-<a href="https://www.behance.net/avsoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="avsoto" height="30" width="40" /></a>
-</p>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![AfterEffects](https://img.shields.io/badge/adobe%20after%20effects-%23FF61F6.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avsoto&show_icons=true&locale=en&layout=compact" alt="avsoto" /></p>
+### 🌟 Highlights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avsoto&show_icons=true&locale=en" alt="avsoto" /></p>
+- 🔭 I’m currently working on a **Single Page Application** to filter and visualize social and cultural data, leveraging **JavaScript** and **Figma**.
+- 🌱 I’m expanding my skills in **Data Analysis** with **Power BI**.
+- 🤝 I’m looking to collaborate on **UX Design** and **web development projects**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avsoto&" alt="avsoto" /></p>
+### 📚 Education
+
+- **Bachelor of Engineering in Software** | ISIL | Graduated 2021  
+- **Animation** | Toulouse Lautrec | 2022  
+- **Philosophy** | 2023
+
+### 🏆 Certifications
+
+- **Laboratoria Bootcamp** | Front-End Development | ProInnovate Scholarship | 2024  
+- **Oracle Certified ChatGPT Optimizing Results** | 2024
+- **Máster Completo en Java de Cero a Experto** | 2024
+- **The Complete JavaScript Course 2024: From Zero to Expert!** | 2024
+- **The Web Developer Bootcamp 2024** | 2024
+- **Foundations of User Experience (UX) Design** | Google | Jan 2024
+- **SQL for Data Science** | University of California, Davis | Jan 2024
+- **Adobe XD Course** | Platzi | Feb 2023
+- **Basic JavaScript Course** | Platzi | Feb 2023
+- **Microsoft Excel** | Cibertec | Nov 2020
