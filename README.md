@@ -37,7 +37,6 @@ I’m constantly seeking new ways to challenge myself and improve. I’ve collab
 ### 🏆 Certifications
 
 - **Laboratoria Bootcamp** | Front-End Development | ProInnovate Scholarship | 2024  
-- **Oracle Certified ChatGPT Optimizing Results** | 2024
 - **Máster Completo en Java de Cero a Experto** | 2024
 - **The Complete JavaScript Course 2024: From Zero to Expert!** | 2024
 - **The Web Developer Bootcamp 2024** | 2024
