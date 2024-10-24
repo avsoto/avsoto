@@ -2,7 +2,7 @@
 
 ### :octocat: About Me
 
-I am a **Software Engineer** and **UX Designer** passionate about building software that improves people's lives. My journey started with **Philosophy**, but I transitioned into **Software Engineering** and now specialize in creating intuitive web applications. With experience in **JavaScript**, **Java**, **HTML**, **CSS**, and **Java**, I'm adept at solving problems through code and designing user-centric solutions.
+I am a **Software Engineer** passionate about building software that improves people's lives. My journey started with **Philosophy**, but I transitioned into **Software Engineering** and now specialize in creating intuitive web applications. With experience in **JavaScript**, **Java**, **HTML**, **CSS**, and **Java**, I'm adept at solving problems through code and designing user-centric solutions.
 
 I’m constantly seeking new ways to challenge myself and improve. I’ve collaborated on projects in both English (C2 level) and Spanish, and I enjoy working in agile teams. In addition to development, I have strong skills in **Power BI**, **Illustrator**, **Photoshop**, **Figma**, and **After Effects**. Outside of coding, I love learning new languages and exploring different cultures.
 
