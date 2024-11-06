@@ -29,9 +29,9 @@ Additionally, I possess a comprehensive understanding of the software developmen
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently working on a **Single Page Application** to filter and visualize social and cultural data, leveraging **JavaScript** and **Figma**.
-- 🌱 I’m expanding my skills in **Data Analysis** with **Power BI**.
-- 🤝 I’m looking to collaborate on **UX Design** and **web development projects**.
+- 🔭 I’m currently working on the NTTDATA-BankingSystem project, which involves developing a banking platform using Java for the backend. (This project was left by NTTDATA for the TECH GIRLS POWER program)
+- 🌱 I’m expanding my skills in Java.
+- 🤝 I’m looking to collaborate on Full Stack or BackEnd Development projects, where I can contribute my expertise in both frontend and backend technologies.
 
 ### 📚 Education
 
