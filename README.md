@@ -41,6 +41,7 @@ Additionally, I possess a comprehensive understanding of the software developmen
 
 ### 🏆 Certifications
 
+- **UML and Object-Oriented Design Foundations** | 2024
 - **Laboratoria Bootcamp** | Front-End Development | ProInnovate Scholarship | 2024  
 - **Máster Completo en Java de Cero a Experto** | 2024
 - **The Complete JavaScript Course 2024: From Zero to Expert!** | 2024
