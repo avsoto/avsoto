@@ -2,9 +2,14 @@
 
 ### :octocat: About Me
 
-I am a **Software Engineer** passionate about building software that improves people's lives. My journey started with **Philosophy**, but I transitioned into **Software Engineering** and now specialize in creating intuitive web applications. With experience in **JavaScript**, **Java**, **HTML**, **CSS**, and **Java**, I'm adept at solving problems through code and designing user-centric solutions.
+Passionate about creating solutions that improve people's lives through efficient and secure software, I specialize in backend development with a solid foundation in Software Engineering. I am proficient in languages like JavaScript, PHP, and I am currently expanding my skills in Java.
 
-I’m constantly seeking new ways to challenge myself and improve. I’ve collaborated on projects in both English (C2 level) and Spanish, and I enjoy working in agile teams. In addition to development, I have strong skills in **Power BI**, **Illustrator**, **Photoshop**, **Figma**, and **After Effects**. Outside of coding, I love learning new languages and exploring different cultures.
+I have experience with SQL databases, such as MySQL, optimizing data management through efficient queries and ensuring data integrity. I have worked under agile methodologies like SCRUM, collaborating in multidisciplinary teams to achieve goals in a structured and adaptive manner.
+
+Additionally, I possess a comprehensive understanding of the software development life cycle, including designing intuitive interfaces using tools like Figma, Illustrator, and Adobe XD. This background allows me to deeply understand the connection between frontend and backend, ensuring optimal integration.
+
+• Behance: https://www.behance.net/avsoto
+• GitHub: https://github.com/avsoto
 
 ### 💻 Tech Stack:
 
