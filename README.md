@@ -2,15 +2,13 @@
 
 ### :octocat: About Me
 
-Passionate about creating solutions that improve people's lives through efficient and secure software, I specialize in backend development with a solid foundation in Software Engineering. I am proficient in languages like JavaScript, PHP, and I am currently expanding my skills in Java.
+Full Stack Developer with experience in web solutions and a mobile-first approach. With training from Laboratoria and the Instituto San Ignacio de Loyola, I excel in creating intuitive and functional applications, applying agile methodologies (SCRUM), and working with both frontend and backend technologies.
 
-I have experience with SQL databases, such as MySQL, optimizing data management through efficient queries and ensuring data integrity. I have worked under agile methodologies like SCRUM, collaborating in multidisciplinary teams to achieve goals in a structured and adaptive manner.
-
-Additionally, I possess a comprehensive understanding of the software development life cycle, including designing intuitive interfaces using tools like Figma, Illustrator, and Adobe XD. This background allows me to deeply understand the connection between frontend and backend, ensuring optimal integration.
+I am currently expanding my backend development skills with Java in the Tech Girls Power program by NTT Data. With advanced proficiency in English (C2) and intermediate proficiency in Portuguese (B2), I focus on process optimization and improving user experience.
 
 • Behance: https://www.behance.net/avsoto
 • GitHub: https://github.com/avsoto
-• [CV]([https://www.figma.com/design/FK3fldaYVYv96vBiEvEgyo/Text-Analyzer?node-id=3-1727&t=PDWubHfN1v41koYw-1](https://docs.google.com/document/d/1Ee4HQ6n1Y7u6qlVV2UrQlgzOrptl1te_/edit?usp=sharing&ouid=111308656360819493585&rtpof=true&sd=true).
+• [CV](https://docs.google.com/document/d/1Ee4HQ6n1Y7u6qlVV2UrQlgzOrptl1te_/edit?usp=sharing&ouid=111308656360819493585&rtpof=true&sd=true).
 
 ### 💻 Tech Stack:
 
