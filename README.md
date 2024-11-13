@@ -40,6 +40,7 @@ I am currently expanding my backend development skills with Java in the Tech Gir
 
 ### 🏆 Certifications
 
+- **Scrum & Agile | Aprende y Profundiza las Metodologías Ágiles** | 2024
 - **UML and Object-Oriented Design Foundations** | 2024
 - **Laboratoria Bootcamp** | Front-End Development | ProInnovate Scholarship | 2024  
 - **Máster Completo en Java de Cero a Experto** | 2024
