@@ -10,6 +10,7 @@ Additionally, I possess a comprehensive understanding of the software developmen
 
 • Behance: https://www.behance.net/avsoto
 • GitHub: https://github.com/avsoto
+• [CV]([https://www.figma.com/design/FK3fldaYVYv96vBiEvEgyo/Text-Analyzer?node-id=3-1727&t=PDWubHfN1v41koYw-1](https://docs.google.com/document/d/1Ee4HQ6n1Y7u6qlVV2UrQlgzOrptl1te_/edit?usp=sharing&ouid=111308656360819493585&rtpof=true&sd=true).
 
 ### 💻 Tech Stack:
 
