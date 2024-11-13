@@ -6,6 +6,7 @@ Full Stack Developer with experience in web solutions and a mobile-first approac
 
 I am currently expanding my backend development skills with Java in the Tech Girls Power program by NTT Data. With advanced proficiency in English (C2) and intermediate proficiency in Portuguese (B2), I focus on process optimization and improving user experience.
 
+- [Linkedin](https://www.linkedin.com/in/anasotomejia/)
 - [Behance](https://www.behance.net/avsoto)
 - [CV](https://docs.google.com/document/d/1Ee4HQ6n1Y7u6qlVV2UrQlgzOrptl1te_/edit?usp=sharing&ouid=111308656360819493585&rtpof=true&sd=true)
 
