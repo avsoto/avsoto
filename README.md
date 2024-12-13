@@ -38,7 +38,7 @@ I am currently expanding my backend development skills with Java in the Tech Gir
 ### 📚 Education
 
 - **Web Developer Bootcamp** | Laboratoria | 2024
-- **Philosophy** | 2023
+- **Philosophy** | Antonio Ruiz de Montoya University | 2023
 - **Bachelor of Engineering in Software** | ISIL | 2021
 
 ### 🏆 Certifications
