@@ -31,18 +31,21 @@ I am currently expanding my backend development skills with Java in the Tech Gir
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently working on the NTTDATA-BankingSystem project, which involves developing a banking platform using Java for the backend. (This project was left by NTTDATA for the TECH GIRLS POWER program)
+- 🔭 I’m currently working on the NTTDATA-Transaction project, which involves developing a banking platform using Java for the backend. (This project was left by NTTDATA for the TECH GIRLS POWER program)
 - 🌱 I’m expanding my skills in Java.
-- 🤝 I’m looking to collaborate on Full Stack or BackEnd Development projects, where I can contribute my expertise in both frontend and backend technologies.
+- 🤝 I’m looking to collaborate on BackEnd Development projects, where I can contribute my expertise in backend technologies.
 
 ### 📚 Education
 
-- **Bachelor of Engineering in Software** | ISIL | Graduated 2021  
-- **Animation** | Toulouse Lautrec | 2022  
+- **Web Developer Bootcamp** | Laboratoria | Graduated 2024
 - **Philosophy** | 2023
+- **Bachelor of Engineering in Software** | ISIL | 2021
 
 ### 🏆 Certifications
 
+- **Guía completa JUnit y Mockito** | In progress
+- **Principios SOLID y clean code** | In progress
+- **Aprende a crear una API RESTful con Java y Spring Boot** | 2024
 - **Scrum & Agile | Aprende y Profundiza las Metodologías Ágiles** | 2024
 - **UML and Object-Oriented Design Foundations** | 2024
 - **Laboratoria Bootcamp** | Front-End Development | ProInnovate Scholarship | 2024  
@@ -53,4 +56,5 @@ I am currently expanding my backend development skills with Java in the Tech Gir
 - **SQL for Data Science** | University of California, Davis | Jan 2024
 - **Adobe XD Course** | Platzi | Feb 2023
 - **Basic JavaScript Course** | Platzi | Feb 2023
+- **Digital Animation** | Toulouse Lautrec | 2022  
 - **Microsoft Excel** | Cibertec | Nov 2020
