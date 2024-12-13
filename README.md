@@ -31,7 +31,7 @@ I am currently expanding my backend development skills with Java in the Tech Gir
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently working on the NTTDATA-Transaction project, which involves developing a banking platform using Java for the backend. (This project was left by NTTDATA for the TECH GIRLS POWER program)
+- 🔭 I’m currently working on the **NTTDATA-Transaction project**, which involves developing a banking platform using Java for the backend. (This project was left by **NTTDATA** for the **TECH GIRLS POWER program**)
 - 🌱 I’m expanding my skills in Java.
 - 🤝 I’m looking to collaborate on BackEnd Development projects, where I can contribute my expertise in backend technologies.
 
