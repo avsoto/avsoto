@@ -2,7 +2,7 @@
 
 ### :octocat: About Me
 
-Full Stack Developer with experience in web solutions and a mobile-first approach. With training from Laboratoria and the Instituto San Ignacio de Loyola, I excel in creating intuitive and functional applications, applying agile methodologies (SCRUM), and working with both frontend and backend technologies.
+Backend Developer specialized in Software Engineering, passionate about creating digital solutions that enhance people's lives through efficient, secure, and scalable applications. With training from Laboratoria and the Instituto San Ignacio de Loyola.
 
 I am currently expanding my backend development skills with Java in the Tech Girls Power program by NTT Data. With advanced proficiency in English (C2) and intermediate proficiency in Portuguese (B2), I focus on process optimization and improving user experience.
 
