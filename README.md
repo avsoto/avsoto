@@ -1,4 +1,4 @@
-## 😊 Hi, I'm Ana Victoria Soto Mejía
+## 😊 Hi, I'm Ana Soto
 
 ### :octocat: About Me
 
