@@ -31,7 +31,7 @@ I am currently expanding my backend development skills with Java and Angular. Wi
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently working on an Angular project to deepen my knowledge of the Angular framework while continuing to enhance my Java skills. I'm complementing this practical experience by taking courses on Udemy, focusing on both Angular and Java development.
+- 🔭 I’m currently working on an **Angular project** to deepen my knowledge of the **Angular framework** while continuing to enhance my **Java** skills. I'm complementing this practical experience by taking courses on **Udemy**, focusing on both Angular and Java development.
 - 🤝 I’m looking to collaborate on BackEnd Development projects, where I can contribute my expertise in backend technologies.
 
 ### 📚 Education
