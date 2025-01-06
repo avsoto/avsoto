@@ -4,7 +4,7 @@
 
 Backend Developer specialized in Software Engineering, passionate about creating digital solutions that enhance people's lives through efficient, secure, and scalable applications. With training from Laboratoria and the Instituto San Ignacio de Loyola.
 
-I am currently expanding my backend development skills with Java in the Tech Girls Power program by NTT Data. With advanced proficiency in English (C2) and intermediate proficiency in Portuguese (B2), I focus on process optimization and improving user experience.
+I am currently expanding my backend development skills with Java and Angular. With advanced proficiency in English (C2) and intermediate proficiency in Portuguese (B2), I focus on process optimization and improving user experience.
 
 - [Linkedin](https://www.linkedin.com/in/anasotomejia/)
 - [Behance](https://www.behance.net/avsoto)
@@ -31,8 +31,7 @@ I am currently expanding my backend development skills with Java in the Tech Gir
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently working on the **NTTDATA-Transaction project**, which involves developing a banking platform using Java for the backend. (This project was left by **NTTDATA** for the **TECH GIRLS POWER program**)
-- 🌱 I’m expanding my skills in Java.
+- 🔭 I’m currently working on an Angular project to deepen my knowledge of the Angular framework while continuing to enhance my Java skills. I'm complementing this practical experience by taking courses on Udemy, focusing on both Angular and Java development.
 - 🤝 I’m looking to collaborate on BackEnd Development projects, where I can contribute my expertise in backend technologies.
 
 ### 📚 Education
